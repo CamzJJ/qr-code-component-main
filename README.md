@@ -21,9 +21,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](/screenshot.png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [see live site URL here](camzjjqrcodechallege.netlify.app)
 
 ## My process
+
+Once I had planned how I wanted to structure the HTML I then planned how to best use  CSS variables as if it were a large project. I used the variables in such a way that certain changes could be relfected instantly accross a whole site instantly without having to go back to individual components or classes.
 
 ### Built with
 
@@ -38,9 +40,7 @@ I learned how to use CSS variables.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@CamzJJ](https://www.frontendmentor.io/profile/CamzJJ)
+- Twitter - [@CameronLaudat](https://twitter.com/CameronLaudat)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
